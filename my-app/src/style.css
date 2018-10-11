@@ -1,0 +1,27 @@
+.ui.topmenu.menu {
+    background-color: #6f6158;
+    margin: 0px;
+    border-radius: 0px;
+}
+.backgroundpic{
+    background: url("//d33sibjczatcj.cloudfront.net/t/1408517027/public/files/599/427/assets/444234/KungPaoChicken_1170x390!-c.jpg");
+    height: 390px;
+    background-size: cover;
+}
+.footer-background {
+    background-color: #6f6158;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.footer-one {
+    font-size: 25px;
+
+}
+
+.ui.menu .item {
+    color: #ccc;
+    font-size: 22px;
+
+}
